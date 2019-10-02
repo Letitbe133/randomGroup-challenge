@@ -5,7 +5,7 @@ const group = [
   "Yannis Aouachria",
   "Pierre Denaes",
   "Morgan Trainoir",
-  "Coralie Daimery",
+  "Coralie Damery",
   "Quentin Robert",
   "Alexandre Chauvet",
   "Sebastien Cartoux",
@@ -14,12 +14,13 @@ const group = [
   "Yoan Baldacchino",
   "Nicolas Degabriel",
   "Ayman Bratzu",
-  "Quentin Queffuris",
+  "Quentin Queffurus",
   "Killian Pasquier",
   "Jérôme Laurent",
   "Jean-Daniel Pontremoli",
   "Marjorie Ngoupende",
-  "Christophe Coutures"
+  "Christophe Coutures",
+  "Christophe Michel"
 ];
 
 const groupNames = [
